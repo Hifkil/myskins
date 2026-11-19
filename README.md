@@ -3,8 +3,6 @@ All the osu! skins I may use.
 
 **How to install:** download the `.osk` file and double-click it (or drag it onto the osu! window), and osu! will import it.
 
----
-
 ## Aristia(EDIT) + AlmightyDoor
 goated hitsound nothing special
 
